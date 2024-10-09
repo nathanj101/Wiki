@@ -6,11 +6,14 @@
 
 ## IT Operations
 
+* [Data Management](it-operations/data-management/README.md)
+  * [TrueNAS](it-operations/data-management/truenas.md)
+  * [Duplicacy](it-operations/data-management/duplicacy.md)
+  * [FreeFileSync](it-operations/data-management/freefilesync.md)
 * [Disk Management](it-operations/page-1.md)
   * [HDDLiveCD](it-operations/disk-management/hddlivecd.md)
   * [Rescuezilla](it-operations/disk-management/rescuezilla.md)
   * [Virtual CloneDrive](it-operations/disk-management/virtual-clonedrive.md)
-  * [Duplicacy](it-operations/disk-management/duplicacy.md)
   * [fat32format](it-operations/disk-management/fat32format.md)
   * [Rufus](it-operations/disk-management/rufus.md)
   * [ImgBurn](it-operations/disk-management/imgburn.md)
