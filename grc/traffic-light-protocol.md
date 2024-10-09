@@ -1,3 +1,7 @@
+---
+icon: traffic-light
+---
+
 # Traffic Light Protocol
 
 ## Introduction <a href="#introduction" id="introduction"></a>

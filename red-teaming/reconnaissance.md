@@ -1,2 +1,6 @@
-# Page 2
+---
+icon: binoculars
+---
+
+# Reconnaissance
 
