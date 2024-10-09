@@ -6,7 +6,12 @@
 
 ## IT Operations
 
-* [Page 1](it-operations/page-1.md)
+* [Disk Management](it-operations/disk-management/README.md)
+  * [HDDLiveCD](it-operations/disk-management/hddlivecd.md)
+  * [Rescuezilla](it-operations/disk-management/rescuezilla.md)
+  * [Virtual CloneDrive](it-operations/disk-management/virtual-clonedrive.md)
+  * [Duplicacy](it-operations/disk-management/duplicacy.md)
+  * [fat32format](it-operations/disk-management/fat32format.md)
 
 ## Red Teaming
 
