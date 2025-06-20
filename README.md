@@ -20,9 +20,9 @@ layout:
 
 # Welcome
 
-<figure><img src=".gitbook/assets/homebanner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/wikibanner.png" alt=""><figcaption></figcaption></figure>
 
-## G'day Champions 🏆 - Welcome to the Cyb3rN8TE Wiki <a href="#gday-champions-welcome-to-the-cyb3rn8te-wiki" id="gday-champions-welcome-to-the-cyb3rn8te-wiki"></a>
+## G'day Champions 🏆 - Welcome to my Info-Tech Wiki <a href="#gday-champions-welcome-to-the-cyb3rn8te-wiki" id="gday-champions-welcome-to-the-cyb3rn8te-wiki"></a>
 
 This wiki serves as a repository of knowledge acquired through four years of hands-on experience in the information technology and cybersecurity field.
 
@@ -30,11 +30,7 @@ Having worked as a systems administrator, junior security analyst, and malware a
 
 IT alone involves a vast amount of continuous learning, and adding cybersecurity on top of that makes it feel almost impossible to keep up. I wanted to create a centralised system where I can safely and effectively document everything I've learned in a structured way. The goal is to have an easily accessible resource to recall important information, like scripts, software usage, attack methods, and defence strategies, whenever needed.
 
-At some point, I realised that this wiki could be a valuable way to give back to the industry. I felt immensely grateful for the opportunity to build a career in cybersecurity, especially considering the extremely competitive nature of the market. It almost felt like a miracle that a non-graduate, working in hospitality, could break into the industry.
-
-From conversations with industry professionals, reading forums, and my own experiences, it’s clear that many businesses lack a proper structure to support newcomers in the field of cybersecurity. This can include inadequate training, limited promotion opportunities, restrictions on learning experiences, and a lack of a structured knowledge base or training program. I created this wiki to provide guidance for others who may be facing similar challenges.
-
-I hope you find the information in this wiki beneficial. Feel free to reach out to me via my socials at any time if you want to chat about the industry or just have a friendly chat.
+Although this wiki is primarily intended to support my own learning and reference, I have made it publicly accessible in the hope that others may also find its content informative or valuable.
 
 Cheers,
 
