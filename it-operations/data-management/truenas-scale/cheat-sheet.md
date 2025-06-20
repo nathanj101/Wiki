@@ -22,6 +22,48 @@ sudo sg_format --format --ffmt=1 --size=512 /dev/sdX
 sudo sg_requests /dev/sdX
 ```
 
+### Drive Testing
+
+#### Short SMART Test
+
+```
+sudo smartctl -t short /dev/sdX
+```
+
+#### Long  SMART Test
+
+```
+sudo smartctl -t long /dev/sdX
+```
+
+#### Check SMART Results
+
+```
+sudo smartctl -a /dev/sdX
+```
+
+#### BadBlock Stress Test
+
+{% hint style="warning" %}
+This is a destructive test and will destroy all data on the disk
+{% endhint %}
+
+```
+badblocks -b 4096 -c 65535 -wsv /dev/sdX > /mnt/tank/badblocks-$(basename /dev/sdX).log
+```
+
+#### ZFS Scrub Test
+
+```
+zpool scrub TESTR001
+```
+
+#### Check ZFS Scrub Test Results
+
+```
+zpool status TESTR001
+```
+
 ### Drive Information
 
 #### Display name, model, serial, physical and logical sector sizes
