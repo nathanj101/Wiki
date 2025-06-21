@@ -69,7 +69,7 @@ zpool status TESTR001
 #### Display name, model, serial, physical and logical sector sizes
 
 ```
-lsblk -o NAME,MODEL,SERIAL,SIZE,PHY-SeC,LOG-SeC
+lsblk -o NAME,MODEL,SERIAL,SIZE,PHY-SEC,LOG-SEC -b | sort -k4 -n
 ```
 
 #### SMART attributes
