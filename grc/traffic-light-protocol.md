@@ -31,11 +31,7 @@ The choice of using colours mirrors the intuitive and universally recognised nat
 
 {% tabs %}
 {% tab title="TLP:CLEAR" %}
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Recipients can spread this to the _world_, there is no limit on disclosure. Sources may use TLP:CLEAR when information carries minimal or no foreseeable risk of misuse, in accordance with applicable rules and procedures for public release. Subject to standard copyright rules, TLP:CLEAR information may be shared without restriction.&#x20;
 {% endtab %}
