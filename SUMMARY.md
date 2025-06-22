@@ -33,6 +33,7 @@
     * [ImgBurn](it-operations/disk-management/software/imgburn.md)
     * [H2testw](it-operations/disk-management/software/h2testw.md)
     * [Hard Disk Sentinel](it-operations/disk-management/software/hard-disk-sentinel.md)
+  * [Host Bus Adapters](it-operations/disk-management/host-bus-adapters.md)
 * [Network Tools](it-operations/network-tools/README.md)
   * [iPerf](it-operations/network-tools/iperf.md)
   * [Advanced IP Scanner](it-operations/network-tools/advanced-ip-scanner.md)
