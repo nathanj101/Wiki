@@ -34,7 +34,7 @@ The recommended pattern is 0xAA 0x55 0xAA 0x55, which alternates bits (10101010 
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Step 4: Run Another Long SMART Test**
 
