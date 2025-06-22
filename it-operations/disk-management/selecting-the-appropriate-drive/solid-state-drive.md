@@ -8,8 +8,8 @@ When selecting a solid-state drive (SSD), the right choice depends heavily on wh
 
 ## Production
 
-| Purpose         | DWPD Range                 | Recommended model                                                                                                                                                   |
-| --------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mixed usage     | Typically > 1 and ≤ 3 DWPD | <ul><li>Micron 5300 MAX</li><li>Intel S4600</li><li>Intel D3‑S4610</li><li>Intel S3610</li><li>Samsung SM883</li><li>Samsung SM863a</li><li>Samsung PM897</li></ul> |
-| Write-intensive | Typically > 3 DWPD         | <ul><li>Intel S3710</li><li>Intel S3700</li></ul>                                                                                                                   |
-| Read-intensive  | Typically ≤ 1 DWPD         | <ul><li>Intel D3‑S4510</li></ul>                                                                                                                                    |
+| Purpose         | DWPD Range                 | Recommended model                                                                                                                                                                         |
+| --------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mixed usage     | Typically > 1 and ≤ 3 DWPD | <ul><li>Micron 5300 MAX</li><li>Intel S4600</li><li>Intel D3‑S4610</li><li>Intel S3610</li><li>Samsung SM883</li><li>Samsung SM863a</li><li>Samsung PM897</li><li>Samsung SM863</li></ul> |
+| Write-intensive | Typically > 3 DWPD         | <ul><li>Intel S3710</li><li>Intel S3700</li></ul>                                                                                                                                         |
+| Read-intensive  | Typically ≤ 1 DWPD         | <ul><li>Intel D3‑S4510</li><li>Samsung PM863</li><li>Samsung PM883</li></ul>                                                                                                              |
