@@ -15,6 +15,7 @@
     * [Scrub Tasks](it-operations/data-management/truenas-scale/scrub-tasks.md)
     * [Storage Quota](it-operations/data-management/truenas-scale/storage-quota.md)
     * [Replacing a failed disk](it-operations/data-management/truenas-scale/replacing-a-failed-disk.md)
+    * [ZFS Pool Migration](it-operations/data-management/truenas-scale/zfs-pool-migration.md)
   * [Duplicacy](it-operations/data-management/duplicacy.md)
   * [FreeFileSync](it-operations/data-management/freefilesync.md)
 * [Disk Management](it-operations/page-1.md)
